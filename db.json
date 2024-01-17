@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "pname": "pens",
+      "pprice": "",
+      "pqty": "",
+      "id": 1
+    },
+    {
+      "pname": "pens",
+      "pprice": "55555",
+      "pqty": "545",
+      "id": 2
+    },
+    {
+      "pname": "shirt",
+      "pprice": "54444",
+      "pqty": "6455",
+      "id": 3
+    },
+    {
+      "pname": "dairy milk",
+      "pprice": "26262622",
+      "pqty": "6254",
+      "id": 4
+    }
+  ]
+}
